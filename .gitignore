@@ -47,6 +47,7 @@ coverage.xml
 *.mo
 *.pot
 *.sublime-workspace
+*.sublime-project
 
 # Django stuff:
 *.log
